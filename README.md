@@ -2,6 +2,7 @@
 
 colab https://colab.research.google.com/drive/1-MRKRAWKTUXqlDgfV57xkncIYoEC0o_l?usp=sharing
 
+control: wgEncodeBroadHistoneHsmmControlStdAlnRep1.bam
 * H2azAlnRep1.bam
 * H3k09me3AlnRep1.bam
 * H3k27acStdAlnRep1.bam
