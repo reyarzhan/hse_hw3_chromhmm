@@ -14,4 +14,4 @@ control: wgEncodeBroadHistoneHsmmControlStdAlnRep1.bam
 * H3k09acAlnRep1.bam
 * H3k09me3AlnRep1.bam
 
-остальное в папке data
+остальное в файликах
